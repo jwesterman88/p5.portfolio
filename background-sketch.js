@@ -27,7 +27,7 @@ function setup() {
 }
 
 function draw() {
-  background(0, 5)
+  background(255, 5)
 
   update()
 
