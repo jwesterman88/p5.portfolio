@@ -23,7 +23,7 @@ function setup() {
 
   stepSize = 1
   noStroke()
-  background(0)
+  background(255)
 }
 
 function draw() {
